@@ -33,5 +33,5 @@ const result = findFirstNonRepeatedCharacter(inputString);
 if (result) {
   alert( result);
 } else {
-  alert('null');
+  alert("null");
 }
