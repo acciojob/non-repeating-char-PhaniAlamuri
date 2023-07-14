@@ -1,7 +1,4 @@
 //your JS code here. If required.
-function findFirstNonRepeatedCharacter(str) {
-  // Create an empty object to store character frequencies
-//your JS code here. If required.
 function firstNonRepeatedChar() {
   var input = prompt("Enter a string:");
   var charCount = {};
